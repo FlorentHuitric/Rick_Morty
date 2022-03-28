@@ -1,10 +1,10 @@
 @font-face{
-    font-family:"Jungle";
-    src:url("dancing_jungle/DANCING JUNGLE.ttf")
+    font-family:"Sch";
+    src:url(font/sch.ttf)
 }
 @font-face{
-    font-family:"Sch";
-    src:url("rick_font/schw.ttf")
+    font-family:"Schw";
+    src:url(font/schw.ttf)
 }
 
 *{
@@ -21,7 +21,7 @@ html {
 body {
 	padding: 0;
 	margin: 0;
-	font-family: Sch;
+	font-family: Schw;
 }
 
 
@@ -87,5 +87,5 @@ button {
 	background-color: black;
 	color: #fff;
 	font-size: 2em;
-	font-family: Jungle;
+	font-family: Sch;
 }
